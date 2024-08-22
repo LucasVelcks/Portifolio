@@ -341,3 +341,31 @@ footer{
     padding: 40px 4%;
     box-shadow: 0 0 40px 10px #ffffff28;
 }
+
+footer .flex{
+    justify-content: space-between;
+}
+
+footer .line-footer{
+    padding: 15px 0;
+}
+
+.borda{
+    border-top: 2px solid #00ff08;
+}
+
+footer .line-footer p i{
+    color: #00ff08;
+    font-size: 25px;
+}
+
+footer .line-footer p a{
+    color: #fff;
+}
+
+footer img{
+    height: 100px;
+    border-radius: 10%;
+    border: 3px solid #00ff08;
+    box-shadow: 3px 3px 20px #00ff08;
+}
